@@ -4,6 +4,7 @@ namespace Gridster
 {
     public class Grid
     {
+        //test
         static private int SizeX;
         static private int SizeY;
         public Grid (int X, int Y)
